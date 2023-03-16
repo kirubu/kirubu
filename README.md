@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @kirubu
-- 👀 I’m interested in learning JAVA, Providing online Training in CORE JAVA
-- 🌱 I’m currently learning JSP and MVC
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @kiruba
+- 👀 I’m interested in learning JAVA, Providing online Training in JAVA Rest API, Angular
 - 📫 Reach me @ kiruba.nandhu@gmail.com
 
 <!---
