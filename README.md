@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kiruba
-- 👀 I’m interested in learning JAVA, Providing online Training in JAVA Rest API, Angular
+- 👀 I’m Providing online Training in JAVA Rest API, Angular
 - 📫 Reach me @ kiruba.nandhu@gmail.com
 
 <!---
